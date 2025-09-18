@@ -12,7 +12,7 @@ This project aims to analyze pizza sales data from 2015. The main objective of t
 
 ### 3. Data Source
 
-The dataset used is from the Youtube platform, containing information about product sales and transactions in 2015.
+The dataset used is containing information about product sales and transactions in 2015.
 
 ### 4. Key Analysis Steps
 
@@ -38,3 +38,4 @@ Here are a few of the key insights presented in the interactive dashboard:
 
 -   **LinkedIn**: https://www.linkedin.com/in/oktaviaprastika
 -   **Email**: oktaviaprastika0@gmail.com
+
